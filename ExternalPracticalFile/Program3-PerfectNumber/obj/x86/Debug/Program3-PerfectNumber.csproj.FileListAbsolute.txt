@@ -1,0 +1,4 @@
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program3-PerfectNumber\bin\Debug\Program3-PerfectNumber.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program3-PerfectNumber\bin\Debug\Program3-PerfectNumber.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program3-PerfectNumber\obj\x86\Debug\Program3-PerfectNumber.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program3-PerfectNumber\obj\x86\Debug\Program3-PerfectNumber.pdb

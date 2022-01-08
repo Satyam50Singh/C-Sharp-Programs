@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SampleDatabaseConnectivity\obj\x86\Debug\SampleDatabaseConnectivity.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SampleDatabaseConnectivity\obj\x86\Debug\SampleDatabaseConnectivity.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SampleDatabaseConnectivity\obj\x86\Debug\SampleDatabaseConnectivity.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SampleDatabaseConnectivity\bin\Debug\SampleDatabaseConnectivity.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SampleDatabaseConnectivity\bin\Debug\SampleDatabaseConnectivity.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SampleDatabaseConnectivity\obj\x86\Debug\SampleDatabaseConnectivity.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SampleDatabaseConnectivity\obj\x86\Debug\SampleDatabaseConnectivity.pdb

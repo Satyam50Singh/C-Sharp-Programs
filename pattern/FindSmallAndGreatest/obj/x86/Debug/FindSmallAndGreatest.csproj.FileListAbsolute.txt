@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FindSmallAndGreatest\bin\Debug\FindSmallAndGreatest.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FindSmallAndGreatest\bin\Debug\FindSmallAndGreatest.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FindSmallAndGreatest\obj\x86\Debug\FindSmallAndGreatest.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FindSmallAndGreatest\obj\x86\Debug\FindSmallAndGreatest.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\documents\visual studio 2010\Projects\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\admin\documents\visual studio 2010\Projects\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.Form1.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.exe
+C:\Users\admin\documents\visual studio 2010\Projects\Form1\Form1\obj\x86\Debug\Form1.pdb

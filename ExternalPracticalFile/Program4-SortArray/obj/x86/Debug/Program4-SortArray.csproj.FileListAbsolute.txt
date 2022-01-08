@@ -1,0 +1,4 @@
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program4-SortArray\bin\Debug\Program4-SortArray.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program4-SortArray\bin\Debug\Program4-SortArray.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program4-SortArray\obj\x86\Debug\Program4-SortArray.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program4-SortArray\obj\x86\Debug\Program4-SortArray.pdb

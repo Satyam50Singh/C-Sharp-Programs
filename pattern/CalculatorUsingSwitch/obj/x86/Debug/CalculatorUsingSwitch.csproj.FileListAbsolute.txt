@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\CalculatorUsingSwitch\bin\Debug\CalculatorUsingSwitch.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\CalculatorUsingSwitch\bin\Debug\CalculatorUsingSwitch.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\CalculatorUsingSwitch\obj\x86\Debug\CalculatorUsingSwitch.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\CalculatorUsingSwitch\obj\x86\Debug\CalculatorUsingSwitch.pdb

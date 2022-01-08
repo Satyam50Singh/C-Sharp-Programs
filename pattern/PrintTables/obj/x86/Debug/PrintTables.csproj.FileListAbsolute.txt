@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\PrintTables\bin\Debug\PrintTables.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\PrintTables\bin\Debug\PrintTables.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\PrintTables\obj\x86\Debug\PrintTables.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\PrintTables\obj\x86\Debug\PrintTables.pdb

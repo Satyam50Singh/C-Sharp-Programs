@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SplitMethod\bin\Debug\SplitMethod.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SplitMethod\bin\Debug\SplitMethod.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SplitMethod\obj\x86\Debug\SplitMethod.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SplitMethod\obj\x86\Debug\SplitMethod.pdb

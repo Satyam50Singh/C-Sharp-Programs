@@ -1,0 +1,5 @@
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\IndexerSimpleExample\bin\Debug\IndexerSimpleExample.exe
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\IndexerSimpleExample\bin\Debug\IndexerSimpleExample.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\IndexerSimpleExample\obj\x86\Debug\IndexerSimpleExample.exe
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\IndexerSimpleExample\obj\x86\Debug\IndexerSimpleExample.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\IndexerSimpleExample\obj\x86\Debug\IndexerSimpleExample.csprojResolveAssemblyReference.cache

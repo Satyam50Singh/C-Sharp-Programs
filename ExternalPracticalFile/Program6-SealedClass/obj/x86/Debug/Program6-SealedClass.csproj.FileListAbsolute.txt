@@ -1,0 +1,4 @@
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program6-SealedClass\bin\Debug\Program6-SealedClass.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program6-SealedClass\bin\Debug\Program6-SealedClass.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program6-SealedClass\obj\x86\Debug\Program6-SealedClass.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program6-SealedClass\obj\x86\Debug\Program6-SealedClass.pdb

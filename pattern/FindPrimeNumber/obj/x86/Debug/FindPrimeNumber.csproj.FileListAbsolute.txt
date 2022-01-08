@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FindPrimeNumber\bin\Debug\FindPrimeNumber.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FindPrimeNumber\bin\Debug\FindPrimeNumber.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FindPrimeNumber\obj\x86\Debug\FindPrimeNumber.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FindPrimeNumber\obj\x86\Debug\FindPrimeNumber.pdb

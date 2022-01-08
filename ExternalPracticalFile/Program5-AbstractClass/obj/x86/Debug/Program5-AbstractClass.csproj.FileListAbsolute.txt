@@ -1,0 +1,4 @@
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program5-AbstractClass\bin\Debug\Program5-AbstractClass.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program5-AbstractClass\bin\Debug\Program5-AbstractClass.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program5-AbstractClass\obj\x86\Debug\Program5-AbstractClass.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program5-AbstractClass\obj\x86\Debug\Program5-AbstractClass.pdb

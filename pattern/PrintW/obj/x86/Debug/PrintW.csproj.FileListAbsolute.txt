@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\pattern\PrintW\bin\Debug\PrintW.exe
+c:\users\admin\documents\visual studio 2010\Projects\pattern\PrintW\bin\Debug\PrintW.pdb
+c:\users\admin\documents\visual studio 2010\Projects\pattern\PrintW\obj\x86\Debug\PrintW.exe
+c:\users\admin\documents\visual studio 2010\Projects\pattern\PrintW\obj\x86\Debug\PrintW.pdb

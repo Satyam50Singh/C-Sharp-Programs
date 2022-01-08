@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FibonacciSeries\obj\x86\Debug\FibonacciSeries.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\FibonacciSeries\obj\x86\Debug\FibonacciSeries.pdb

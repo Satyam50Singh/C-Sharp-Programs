@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\CountCharacters\bin\Debug\CountCharacters.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\CountCharacters\bin\Debug\CountCharacters.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\CountCharacters\obj\x86\Debug\CountCharacters.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\CountCharacters\obj\x86\Debug\CountCharacters.pdb

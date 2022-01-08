@@ -1,0 +1,4 @@
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program2 - Armstrong Number\bin\Debug\Program2 - Armstrong Number.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program2 - Armstrong Number\bin\Debug\Program2 - Armstrong Number.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program2 - Armstrong Number\obj\x86\Debug\Program2 - Armstrong Number.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\Program2 - Armstrong Number\obj\x86\Debug\Program2 - Armstrong Number.pdb

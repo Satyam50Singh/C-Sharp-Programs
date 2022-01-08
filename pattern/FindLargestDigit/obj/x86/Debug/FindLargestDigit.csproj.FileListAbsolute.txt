@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\pattern\FindLargestDigit\bin\Debug\FindLargestDigit.exe
+c:\users\admin\documents\visual studio 2010\Projects\pattern\FindLargestDigit\bin\Debug\FindLargestDigit.pdb
+c:\users\admin\documents\visual studio 2010\Projects\pattern\FindLargestDigit\obj\x86\Debug\FindLargestDigit.exe
+c:\users\admin\documents\visual studio 2010\Projects\pattern\FindLargestDigit\obj\x86\Debug\FindLargestDigit.pdb

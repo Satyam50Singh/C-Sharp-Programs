@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SumOfElementsIn1DArray\bin\Debug\SumOfElementsIn1DArray.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SumOfElementsIn1DArray\bin\Debug\SumOfElementsIn1DArray.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SumOfElementsIn1DArray\obj\x86\Debug\SumOfElementsIn1DArray.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\SumOfElementsIn1DArray\obj\x86\Debug\SumOfElementsIn1DArray.pdb

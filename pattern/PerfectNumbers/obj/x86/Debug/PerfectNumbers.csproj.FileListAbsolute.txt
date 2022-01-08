@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\PerfectNumbers\bin\Debug\PerfectNumbers.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\PerfectNumbers\bin\Debug\PerfectNumbers.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\PerfectNumbers\obj\x86\Debug\PerfectNumbers.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\PerfectNumbers\obj\x86\Debug\PerfectNumbers.pdb

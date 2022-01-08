@@ -1,0 +1,2 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Form\obj\x86\Debug\Form.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Form\obj\x86\Debug\Form.csproj.GenerateResource.Cache

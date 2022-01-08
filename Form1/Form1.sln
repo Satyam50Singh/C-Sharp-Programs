@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form1", "Form1\Form1.csproj", "{B0354EF8-9087-4083-A23D-F150B268A1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{336AD2F8-C388-44D3-8E37-53DC2E08063C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardCalculator", "StandardCalculator\StandardCalculator.csproj", "{3F99A881-E728-429A-A1F5-0B7C6E67E39F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0354EF8-9087-4083-A23D-F150B268A1A2}.Debug|x86.ActiveCfg = Debug|x86
+		{B0354EF8-9087-4083-A23D-F150B268A1A2}.Debug|x86.Build.0 = Debug|x86
+		{B0354EF8-9087-4083-A23D-F150B268A1A2}.Release|x86.ActiveCfg = Release|x86
+		{B0354EF8-9087-4083-A23D-F150B268A1A2}.Release|x86.Build.0 = Release|x86
+		{336AD2F8-C388-44D3-8E37-53DC2E08063C}.Debug|x86.ActiveCfg = Debug|x86
+		{336AD2F8-C388-44D3-8E37-53DC2E08063C}.Debug|x86.Build.0 = Debug|x86
+		{336AD2F8-C388-44D3-8E37-53DC2E08063C}.Release|x86.ActiveCfg = Release|x86
+		{336AD2F8-C388-44D3-8E37-53DC2E08063C}.Release|x86.Build.0 = Release|x86
+		{3F99A881-E728-429A-A1F5-0B7C6E67E39F}.Debug|x86.ActiveCfg = Debug|x86
+		{3F99A881-E728-429A-A1F5-0B7C6E67E39F}.Debug|x86.Build.0 = Debug|x86
+		{3F99A881-E728-429A-A1F5-0B7C6E67E39F}.Release|x86.ActiveCfg = Release|x86
+		{3F99A881-E728-429A-A1F5-0B7C6E67E39F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

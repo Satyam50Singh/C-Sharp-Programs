@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Delegate\bin\Debug\Delegate.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Delegate\bin\Debug\Delegate.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Delegate\obj\x86\Debug\Delegate.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Delegate\obj\x86\Debug\Delegate.pdb

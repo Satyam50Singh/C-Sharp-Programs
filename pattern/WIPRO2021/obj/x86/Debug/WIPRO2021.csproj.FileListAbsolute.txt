@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\WIPRO2021\bin\Debug\WIPRO2021.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\WIPRO2021\bin\Debug\WIPRO2021.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\WIPRO2021\obj\x86\Debug\WIPRO2021.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\WIPRO2021\obj\x86\Debug\WIPRO2021.pdb

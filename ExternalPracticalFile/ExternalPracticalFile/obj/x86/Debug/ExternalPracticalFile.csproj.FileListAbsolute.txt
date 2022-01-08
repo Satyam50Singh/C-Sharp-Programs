@@ -1,0 +1,4 @@
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\ExternalPracticalFile\bin\Debug\ExternalPracticalFile.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\ExternalPracticalFile\bin\Debug\ExternalPracticalFile.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\ExternalPracticalFile\obj\x86\Debug\ExternalPracticalFile.exe
+C:\Users\admin\documents\visual studio 2010\Projects\ExternalPracticalFile\ExternalPracticalFile\obj\x86\Debug\ExternalPracticalFile.pdb

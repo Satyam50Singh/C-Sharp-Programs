@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\ArrayAndMerge\bin\Debug\ArrayAndMerge.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\ArrayAndMerge\bin\Debug\ArrayAndMerge.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\ArrayAndMerge\obj\x86\Debug\ArrayAndMerge.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\ArrayAndMerge\obj\x86\Debug\ArrayAndMerge.pdb

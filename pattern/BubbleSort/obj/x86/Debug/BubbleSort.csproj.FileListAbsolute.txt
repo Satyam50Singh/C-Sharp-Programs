@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\BubbleSort\obj\x86\Debug\BubbleSort.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\BubbleSort\obj\x86\Debug\BubbleSort.pdb

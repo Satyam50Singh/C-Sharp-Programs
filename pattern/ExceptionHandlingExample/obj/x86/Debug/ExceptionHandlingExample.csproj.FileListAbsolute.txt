@@ -1,0 +1,4 @@
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.exe
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\ExceptionHandlingExample\obj\x86\Debug\ExceptionHandlingExample.exe
+C:\Users\admin\documents\visual studio 2010\Projects\pattern\ExceptionHandlingExample\obj\x86\Debug\ExceptionHandlingExample.pdb

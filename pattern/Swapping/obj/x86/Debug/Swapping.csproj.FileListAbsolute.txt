@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Swapping\bin\Debug\Swapping.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Swapping\bin\Debug\Swapping.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Swapping\obj\x86\Debug\Swapping.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\pattern\Swapping\obj\x86\Debug\Swapping.pdb
